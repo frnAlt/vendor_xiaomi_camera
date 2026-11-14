@@ -73,5 +73,3 @@ PRODUCT_PACKAGES += \
     vendor.xiaomi.hardware.misys@3.0-service \
     vendor.xiaomi.hardware.misys@4.0-service
 
-PRODUCT_BOOT_JARS += \
-    camerax-vendor-extensions
